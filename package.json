@@ -26,7 +26,7 @@
     "badges:license": "badge license ISC :brightgreen > ./badges/license.svg"
   },
   "peerDependencies": {
-    "react": ">=17.0.2"
+    "react": ">=19.0.0"
   },
   "devDependencies": {
     "@babel/cli": "7.17.3",
@@ -49,12 +49,17 @@
     "jest": "27.5.1",
     "jsdom": "19.0.0",
     "mri": "1.2.0",
-    "react": "17.0.2",
-    "react-dom": "17.0.2",
-    "react-test-renderer": "17.0.2",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "react-test-renderer": "19.0.0",
     "typescript": "5.0.4",
     "webpack": "5.69.1",
     "webpack-cli": "4.9.2"
+  },
+  "overrides": {
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "react-test-renderer": "19.0.0"
   },
   "keywords": [
     "jw",
