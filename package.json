@@ -59,6 +59,7 @@
   "overrides": {
     "react": "19.0.0",
     "react-dom": "19.0.0",
+    "react-is": "19.0.0",
     "react-test-renderer": "19.0.0"
   },
   "keywords": [
